@@ -1,5 +1,10 @@
 package java8.myStuff.nullObjectPattern;
 
+/**
+ * some stuff
+ * @author User
+ *
+ */
 public interface NullObjectPattern {
 
 	  void perform();
